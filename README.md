@@ -1,6 +1,6 @@
 # htmlCss
 .
-<p align="center"><img src="https://tse3.explicit.bing.net/th?id=OIP.tY1NyQm_SefbFPzfl3v_CQHaFs&pid=Api&P=0"width="400px"/></p>
+<p align="center"><img src="https://tse3.explicit.bing.net/th?id=OIP.tY1NyQm_SefbFPzfl3v_CQHaFs&pid=Api&P=0](https://www.div-ag.fct.unl.pt/sites/www.div-ag.fct.unl.pt/files/imagens/bloco_direita/bloco-direita-web1.png)](https://www.div-ag.fct.unl.pt/sites/www.div-ag.fct.unl.pt/files/imagens/bloco_direita/bloco-direita-web1.png)" width="400px"/></p>
 <hr>
  <h1 align="center">Aplicação Web</h1>
  <hr>
@@ -14,7 +14,7 @@ E com o CSS, foi possível desenvolver um site extremamente elegante, bem otimiz
 <p align="justify">
 
 <p align="justify">
-<b>O projeto elaborado serviu parte do trabalho do tcc referente a aplicações web, foi feito um site de Petshop.</b>
+<b>O projeto elaborado serviu como parte do trabalho do tcc referente a aplicações web, foi feito um site de Petshop.</b>
 </p>
  
  
